@@ -1,0 +1,3 @@
+var=20
+for iv in var:
+   var+=30
